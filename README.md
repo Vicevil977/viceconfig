@@ -1,5 +1,5 @@
 ---
-sticker: lucide//github
+sticker: lucide-icons//github
 ---
 # ¡Hola! 👋 Soy Vicevil
 
