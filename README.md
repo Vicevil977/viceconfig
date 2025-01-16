@@ -1,5 +1,3 @@
----
-
 # ¡Hola! 👋 Soy Vicevil
 
 <div align="center">
