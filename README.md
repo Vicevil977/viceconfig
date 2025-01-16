@@ -1,6 +1,5 @@
 ---
-sticker: lucide-icons//github
----
+
 # ¡Hola! 👋 Soy Vicevil
 
 <div align="center">
