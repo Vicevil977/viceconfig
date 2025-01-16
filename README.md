@@ -110,8 +110,8 @@ Un repositorio enfocado en los estudios y avances en ciberseguridad de mi padre 
 ## 📫 Conecta conmigo
 
 <div align="center">
-  <a href="https://github.com/Vicevil977">
-    <img src="https://img.shields.io/github/followers/Vicevil977?label=Follow&style=social" alt="GitHub Followers"/>
+  <a href="https://github.com/vicevilz">
+    <img src="https://img.shields.io/github/followers/vicevilz?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
   <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Discord-Active-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
