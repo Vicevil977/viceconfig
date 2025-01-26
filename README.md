@@ -12,14 +12,13 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado de la **ciberseguridad**, la
 
 ## 🧑‍💻 Sobre mí
 
-- 💻 **Sistema operativo principal:** Arch Linux ("BTW, I use Arch").
+- 💻 **Sistema operativo:** Arch Linux ("BTW, I use Arch").
 - 🎓 **Estudiante de 3º de ESO:** Aprendiendo como profesional mientras combino estudios y tecnología.
 - 🔐 **Ciberseguridad:** Pentesting, vulnerabilidades y capturas de bandera.
-- 🛠 **Certificaciones:** Preparándome para el **eJPT**, completando un bootcamp en ciberseguridad de TheBridge.
-- 🎮 **Hack The Box:** Mejorando habilidades prácticas. Máquinas completadas: `Cap`, `TwoMillion`, `Sightless` (¡y subiendo!).
+- 🛠 **Certificaciones:** Preparándome para el **eJPTv2**.
+- 🎮 **Hack The Box:** Mejorando habilidades prácticas. Mi perfil: [Haz click aquí](https://app.hackthebox.com/profile/2159140).
 - 🌟 **Ambiente de trabajo:**
-  - Arch Linux en mis máquinas principales.
-  - Kali Linux y BlackArch para entornos ofensivos.
+  - Arch Linux en todos mis equipos.
   - Uso intensivo de **máquinas virtuales** y **Docker** para entornos aislados.
 
 ---
@@ -36,21 +35,21 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado de la **ciberseguridad**, la
 - **Ciberseguridad:** Pentesting, escalada de privilegios, túneles y sistemas seguros.
 - **Linux:** Experto en personalización avanzada (BSPWM, Zsh, Powerlevel10k).
 - **Virtualización:** VirtualBox, VMware, Docker.
-- **Redes:** Configuración de VPNs, proxys y herramientas como Wireshark y CrackMapExec.
+- **Redes:** Configuración de VPNs, proxys y herramientas.
 
 ---
 
 ## 📂 Proyectos destacados
 
 ### 🔗 [CIBERSEGURIDAD_THEBRIDGE](https://github.com/vicevil77/CIBERSEGURIDAD_THEBRIDGE)
-Un repositorio enfocado en los estudios y avances en ciberseguridad de mi padre durante el bootcamp The Bridge. Contiene ejercicios prácticos, scripts personalizados y documentación detallada sobre diversas técnicas de hacking y seguridad.
+Un repositorio enfocado en los estudios y avances en ciberseguridad de mi padre durante un bootcamp en ciberseguridad de [TheBridge](https://thebridge.tech). Contiene ejercicios prácticos, scripts personalizados y documentación detallada sobre diversas técnicas de hacking y seguridad.
 
 ### 🛠 Scripts para compartir proximamente
 - Script programado en bash con varias herramientas automatizadas enfocadas para el pentesting.
 - Estoy trabajando en muchos más y lo mas probable es que los comparta en mi Github.
 
 ### 🌐 Servidores y redes
-- Gestión de servidores de Minecraft (FocuscraftMC Network) y VPNs.
+- Gestión de servidores de Minecraft y VPNs.
 - Optimización de proxys con Velocity y herramientas avanzadas.
 
 ---
@@ -63,6 +62,10 @@ Un repositorio enfocado en los estudios y avances en ciberseguridad de mi padre 
 4. **Explorar nuevas tecnologías:** Machine learning aplicado a ciberseguridad.
 
 ---
+
+## 🖥️ Mi portafolio personal
+
+### 💼 [Haz click aquí](https://vicevilz.github.io/personal_portfolio_01/)
 
 ## 📫 Conecta conmigo
 
