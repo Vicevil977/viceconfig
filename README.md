@@ -67,6 +67,8 @@ Un repositorio enfocado en los estudios y avances en ciberseguridad de mi padre 
 
 ### 💼 [Haz click aquí](https://vicevilz.github.io/personal_portfolio_01/)
 
+---
+
 ## 📫 Conecta conmigo
 
 <div align="center">
